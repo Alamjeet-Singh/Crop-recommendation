@@ -2,7 +2,6 @@
 from flask import Flask ,render_template,url_for,request,flash,redirect
 import pickle
 import pandas as pd
-import sklearn
 from werkzeug.utils import secure_filename
 app = Flask(__name__)
 app.secret_key="."
