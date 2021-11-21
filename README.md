@@ -4,6 +4,8 @@
 ##
 # Methodology
 Prototype for a real-time crop recommendation algorithm in Python using Machine Learning and Data Analytics. This work presents a system, in form of a website. The business logic in Python uses Machine Learning techniques in order to predict the most profitable crop in the forecasted weather and soil conditions at a specified location. The proposed system will integrate the data obtained from soil, crop repository, weather department and by applying machine learning algorithm: KNN and SVM for a prediction of most suitable crops according to current environmental conditions is made. This provides a farmer with variety of options of crops that can be cultivated.
+![image](https://user-images.githubusercontent.com/69529536/142772229-0c4b4303-c417-494a-b01a-93832a84a9fe.png)
+
 # Novelty
 #### • Uses KNN and SVM to predict the best fir crop and then makes a decision tree to pick out the best fit crop according to the variables entered
 #### • The system helps the farmers to plan in advance according to the set variables by looking at the forecast and change the soil quality so that they can plant the crop which can give maximum output and is also can be sold at the highest rates which are declared in the start of sowing season
